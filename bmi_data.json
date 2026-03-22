@@ -1,0 +1,60 @@
+{
+  "User1": {
+    "records": [
+      {
+        "date": "2026-03-07 15:55",
+        "weight": 70.0,
+        "height": 1.75,
+        "bmi": 22.86,
+        "category": "Normal Weight"
+      },
+      {
+        "date": "2026-03-08 13:34",
+        "weight": 45.0,
+        "height": 1.79,
+        "bmi": 14.04,
+        "category": "Underweight"
+      }
+    ]
+  },
+  "Shri": {
+    "records": [
+      {
+        "date": "2026-03-07 15:59",
+        "weight": 41.0,
+        "height": 1.61,
+        "bmi": 15.82,
+        "category": "Underweight"
+      }
+    ]
+  },
+  "Alex": {
+    "records": [
+      {
+        "date": "2026-03-08 14:19",
+        "weight": 66.0,
+        "height": 1.75,
+        "bmi": 21.55,
+        "category": "Normal Weight"
+      }
+    ]
+  },
+  "kashi": {
+    "records": [
+      {
+        "date": "2026-03-08 14:19",
+        "weight": 41.0,
+        "height": 1.61,
+        "bmi": 15.82,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-03-08 14:20",
+        "weight": 45.0,
+        "height": 1.63,
+        "bmi": 16.94,
+        "category": "Underweight"
+      }
+    ]
+  }
+}
