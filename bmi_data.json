@@ -54,6 +54,62 @@
         "height": 1.63,
         "bmi": 16.94,
         "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:13",
+        "weight": 41.0,
+        "height": 1.75,
+        "bmi": 13.39,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:13",
+        "weight": 41.0,
+        "height": 1.27,
+        "bmi": 25.42,
+        "category": "Overweight"
+      },
+      {
+        "date": "2026-05-30 10:14",
+        "weight": 41.0,
+        "height": 1.7,
+        "bmi": 14.19,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:14",
+        "weight": 47.0,
+        "height": 1.7,
+        "bmi": 16.26,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:15",
+        "weight": 50.0,
+        "height": 1.7,
+        "bmi": 17.3,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:15",
+        "weight": 50.0,
+        "height": 1.6,
+        "bmi": 19.53,
+        "category": "Normal Weight"
+      },
+      {
+        "date": "2026-05-30 10:15",
+        "weight": 42.0,
+        "height": 1.6,
+        "bmi": 16.41,
+        "category": "Underweight"
+      },
+      {
+        "date": "2026-05-30 10:17",
+        "weight": 50.0,
+        "height": 1.6,
+        "bmi": 19.53,
+        "category": "Normal Weight"
       }
     ]
   }

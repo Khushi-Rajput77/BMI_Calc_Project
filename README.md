@@ -51,6 +51,7 @@ BMI Calculator is a modern, full-featured web application that allows multiple u
 ---
 
 ## 📁 File Structure
+##
 
 ```
 bmi_project/
